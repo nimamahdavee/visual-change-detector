@@ -34,8 +34,8 @@ def compare_images(image1_path, image2_path, output_path):
 
 
 
-image1_path = "im1.png"
-image2_path = "im2.png"
+image1_path = "img1.png"
+image2_path = "img2.png"
 
 
 # image1_path = "image1_sample.png"
